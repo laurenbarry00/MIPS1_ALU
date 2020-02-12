@@ -1,7 +1,8 @@
 # MIPS1_ALU
-ALU design for MIPS 1 project. CS-401 Computer Architecture.
-
 ## Lauren Barry, Casey Sweet, Chris Roberts
+#### Whitworth University CS-401 Computer Architecture.
+
+VHDL implementation of an ALU and test bench code.
 
 ### Slices / Instruction
 61 slices	/ 16 instructions = 3.8125	
